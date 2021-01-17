@@ -1,3 +1,5 @@
 module.exports = {
-  mongoURI: 'mongodb+srv://username:DEVpassword1973@cluster0.1sery.mongodb.net/devconnector?retryWrites=true&w=majority'
-}
+  mongoURI:
+    "mongodb+srv://user:Password@cluster0.41xhx.mongodb.net/testing?retryWrites=true&w=majority",
+  secretOrKey: "secret",
+};
